@@ -1,6 +1,6 @@
 Implement four advanced machine learning algorithms from scratch in python, including the following:
 
-1. GAN (Tested on MNIST)
+1. GAN
 
 2. Denoising auto-encoder (dAE) 
 
